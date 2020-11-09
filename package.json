@@ -17,7 +17,8 @@
     "gulp-phantom": "0.0.6",
     "gulp-webserver": "^0.9.1",
     "opn": "^4.0.2",
-    "phantomcss": "^1.1.5"
+    "phantomcss": "^1.1.5",
+    "phantomjs": "^2.1.7"
   },
   "devDependencies": {
     "gulp-csslint": "^1.0.0"
